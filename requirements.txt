@@ -1,5 +1,5 @@
 pandas==1.2.5
 yake==0.4.8
 tensorflow-cpu==2.5.0
-transformers==4.8.2
+transformers==4.30.0
 streamlit==0.84.0
